@@ -41,7 +41,7 @@ sleep(10).then(() => console.log("F"));
 
 console.log("G");
 
-// prediction:
-// actual:
+// prediction:ADGCFEB
+// actual:ADGCFEB
 // why I was wrong (one line per miss):
-//
+//틀린 것이 없음.
